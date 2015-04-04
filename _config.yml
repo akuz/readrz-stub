@@ -1,0 +1,8 @@
+# Site settings
+title: Readrz.com
+email: andrey@readrz.com
+url: "http://www.readrz.com"
+baseurl: "/readrz-stub"
+
+# Build settings
+markdown: kramdown
