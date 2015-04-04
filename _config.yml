@@ -2,7 +2,7 @@
 title: Readrz.com
 email: andrey@readrz.com
 url: "http://www.readrz.com"
-baseurl: "/readrz-stub"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
